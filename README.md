@@ -1,4 +1,4 @@
-# Paint Application - Readme  
+# Paint Application 
 
 ## Project Description  
 This Paint application is a simple graphics editor with a set of basic drawing and image editing tools. The project is implemented in C# using Windows Forms.  
